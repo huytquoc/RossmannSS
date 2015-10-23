@@ -1,0 +1,15 @@
+---
+title: "RSS"
+author: "Huy Tran"
+date: "October 23, 2015"
+output: html_document
+---
+
+Reading data
+
+```{r}
+
+rsstrain<-read.csv("C:/Users/huytr_000/OneDrive/MLProjects/RSS/Data/train.csv")
+
+```
+
